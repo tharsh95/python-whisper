@@ -7,6 +7,7 @@ Follow these steps to set up and run the FastAPI application locally.
 ```bash
 git clone https://github.com/tharsh95/python-whisper.git
 cd python-whisper
+```
 
 ## Create a Virtual Env
 ```bash
@@ -28,4 +29,4 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-# Make sure to run Ollama mistral model before anything
+# Make sure to run Ollama mistral model before anything in your local
