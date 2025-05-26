@@ -29,4 +29,5 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-# Make sure to run Ollama mistral model before anything in your local
+## Make sure to run Ollama mistral model before anything in your local
+### Install ffmpeg in your os
